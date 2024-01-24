@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active li {
+  background-color: #1560bd;
+}
+.text-lg{
+  color: #1560bd;
+}
